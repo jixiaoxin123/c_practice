@@ -1,3 +1,0 @@
-﻿  test_7_1.c
-G:\jixin\C\test_7_1\test_7_1.c(16,23): warning C4013: “strlen”未定义；假设外部返回 int
-  test_7_1.vcxproj -> G:\jixin\C\test_7_1\Debug\test_7_1.exe
