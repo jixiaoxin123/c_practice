@@ -1,0 +1,3 @@
+﻿  test.c
+G:\jixin\C\test_pointer\test.c(9,1): warning C4133: “初始化”: 从“int *”到“char *”的类型不兼容
+  test_pointer.vcxproj -> G:\jixin\C\test_pointer\Debug\test_pointer.exe
